@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">04_Quizzes</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="siguiente">SIGUIENTE</string>
+    <string name="escoge">Escoge la respuesta correcta</string>
+    <string name="pregunta1">¿Voy a aprobar este modulo?</string>
+    <string name="pregunta2">¿Es el vodka mejor que la ginebra?</string>
+    <string name="pregunta3">¿Es la practica multiIdioma?</string>
+    <string name="respuesta1">Si</string>
+    <string name="respuesta2">Si</string>
+    <string name="respuesta3">Si</string>
+    <string name="respuestaMal1">No</string>
+    <string name="respuestaMal2">No</string>
+    <string name="respuestaMal3">No</string>
+    <string name="fin">Has terminado la leccion</string>
+    <string name="correcto">Has acertado</string>
+    <string name="fallo">Has fallado</string>
+    <string name="escogeUna">No puedes dejar vacia la seleccion</string>
+    <string name="FinBtn">Fin</string>
+</resources>
